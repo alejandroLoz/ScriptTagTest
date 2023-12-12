@@ -1,1 +1,1 @@
-console.log('script tag content loaded');
+console.log('************************************script tag content loaded************************************');
