@@ -1,2 +1,1 @@
-debugger;
-console.log('************************************script tag content loaded************************************');
+alert("This alert box was called with the onload event");
